@@ -144,17 +144,17 @@
 		<BookmarkManager Envoy="1" Target="Project" xmlns="http://www.ni.com/PlatformFramework" />
 		<ProjectLayoutUserSetting Envoy="1" Layout="&quot;&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;\r\n&lt;SandDockLayout Version=&quot;4.5.2.0&quot; IncludeDocuments=&quot;False&quot;&gt;\r\n  &lt;Window Guid=&quot;5ff24aa0-3f64-4fdb-862b-d12100fb1e3d&quot; ContentSize=&quot;248&quot; LastFocused=&quot;0&quot; DockedContentSize=&quot;250&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Left&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;b977b963-d4ba-434f-8040-e3dc8d47d8a7&quot; DockedIndexInWindowGroup=&quot;1&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;Window Guid=&quot;ef8e9c49-58c8-42f3-b808-8b7ae53b5293&quot; ContentSize=&quot;248&quot; LastFocused=&quot;0&quot; DockedContentSize=&quot;250&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Left&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;b977b963-d4ba-434f-8040-e3dc8d47d8a7&quot; DockedIndexInWindowGroup=&quot;2&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;Window Guid=&quot;be3e01c3-0792-4c1c-b1a2-70e3bb642ab1&quot; ContentSize=&quot;300&quot; LastFocused=&quot;-8587172180434457808&quot; DockedContentSize=&quot;313&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Right&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;d598acd0-fc98-46e9-9017-a1c8a816a0aa&quot; DockedIndexInWindowGroup=&quot;1&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;Window Guid=&quot;668f5cee-765e-4a0a-b915-ab1ed88cdf68&quot; ContentSize=&quot;300&quot; LastFocused=&quot;-8587172109399877808&quot; DockedContentSize=&quot;313&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Right&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;d598acd0-fc98-46e9-9017-a1c8a816a0aa&quot; DockedIndexInWindowGroup=&quot;0&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;Window Guid=&quot;93f86101-6c34-42ed-8688-9d7c421b8a81&quot; ContentSize=&quot;248&quot; LastFocused=&quot;-8587170491038466005&quot; DockedContentSize=&quot;250&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Left&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;b977b963-d4ba-434f-8040-e3dc8d47d8a7&quot; DockedIndexInWindowGroup=&quot;0&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;Window Guid=&quot;a0a0b4cf-3538-4178-9e6f-a9f961db6963&quot; ContentSize=&quot;248&quot; LastFocused=&quot;0&quot; DockedContentSize=&quot;250&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Left&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;b977b963-d4ba-434f-8040-e3dc8d47d8a7&quot; DockedIndexInWindowGroup=&quot;3&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;Window Guid=&quot;72562866-aa95-49b2-be38-4c78fe7c2b1a&quot; ContentSize=&quot;101&quot; LastFocused=&quot;-8587168605385114624&quot; DockedContentSize=&quot;200&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Bottom&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;9bae4515-c947-428e-b989-4dff51b785ac&quot; DockedIndexInWindowGroup=&quot;0&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;DockedSplitContainer Dock=&quot;Bottom&quot; ContentSize=&quot;200&quot; SplitterOrientation=&quot;Vertical&quot;&gt;\r\n    &lt;WindowGroup WorkingSize=&quot;100,70&quot; Pinned=&quot;False&quot; SelectedWindow=&quot;72562866-aa95-49b2-be38-4c78fe7c2b1a&quot; Guid=&quot;9bae4515-c947-428e-b989-4dff51b785ac&quot;&gt;\r\n      &lt;Window Guid=&quot;72562866-aa95-49b2-be38-4c78fe7c2b1a&quot; /&gt;\r\n    &lt;/WindowGroup&gt;\r\n  &lt;/DockedSplitContainer&gt;\r\n  &lt;DockedSplitContainer Dock=&quot;Left&quot; ContentSize=&quot;250&quot; SplitterOrientation=&quot;Horizontal&quot;&gt;\r\n    &lt;WindowGroup WorkingSize=&quot;100,70&quot; Pinned=&quot;True&quot; SelectedWindow=&quot;93f86101-6c34-42ed-8688-9d7c421b8a81&quot; Guid=&quot;b977b963-d4ba-434f-8040-e3dc8d47d8a7&quot;&gt;\r\n      &lt;Window Guid=&quot;93f86101-6c34-42ed-8688-9d7c421b8a81&quot; /&gt;\r\n      &lt;Window Guid=&quot;5ff24aa0-3f64-4fdb-862b-d12100fb1e3d&quot; /&gt;\r\n      &lt;Window Guid=&quot;ef8e9c49-58c8-42f3-b808-8b7ae53b5293&quot; /&gt;\r\n      &lt;Window Guid=&quot;a0a0b4cf-3538-4178-9e6f-a9f961db6963&quot; /&gt;\r\n    &lt;/WindowGroup&gt;\r\n  &lt;/DockedSplitContainer&gt;\r\n  &lt;DockedSplitContainer Dock=&quot;Right&quot; ContentSize=&quot;313&quot; SplitterOrientation=&quot;Horizontal&quot;&gt;\r\n    &lt;WindowGroup WorkingSize=&quot;100,70&quot; Pinned=&quot;True&quot; SelectedWindow=&quot;668f5cee-765e-4a0a-b915-ab1ed88cdf68&quot; Guid=&quot;d598acd0-fc98-46e9-9017-a1c8a816a0aa&quot;&gt;\r\n      &lt;Window Guid=&quot;668f5cee-765e-4a0a-b915-ab1ed88cdf68&quot; /&gt;\r\n      &lt;Window Guid=&quot;be3e01c3-0792-4c1c-b1a2-70e3bb642ab1&quot; /&gt;\r\n    &lt;/WindowGroup&gt;\r\n  &lt;/DockedSplitContainer&gt;\r\n&lt;/SandDockLayout&gt;&quot;" Target="Project" xmlns="http://www.ni.com/PlatformFramework" />
 		<OpenDocumentManager Envoy="1" Target="Project" xmlns="http://www.ni.com/PlatformFramework">
-			<OpenDocument ActiveEditor="NationalInstruments.VI.Design.VIDiagramControl" Envoy="605" />
-			<OpenDocument ActiveEditor="NationalInstruments.Shell.SplitEditControl" Envoy="3" />
-			<OpenDocument ActiveEditor="NationalInstruments.VI.Design.VIDiagramControl" Envoy="220" />
 			<OpenDocument ActiveDocument="True" ActiveEditor="NationalInstruments.VI.Design.VIPanelControl" Envoy="646" />
+			<OpenDocument ActiveEditor="NationalInstruments.VI.Design.VIDiagramControl" Envoy="220" />
+			<OpenDocument ActiveEditor="NationalInstruments.Shell.SplitEditControl" Envoy="3" />
+			<OpenDocument ActiveEditor="NationalInstruments.VI.Design.VIDiagramControl" Envoy="605" />
 		</OpenDocumentManager>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="3" Name=":SystemDiagram">
-		<ScrollAndZoomSettingCache Envoy="3" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="3" Name=":SystemDiagram" xmlns="http://www.ni.com/PlatformFramework">
+		<ScrollAndZoomSettingCache Envoy="3" Target="Envoy">
 			<ScrollAndZoomEditor EditorName="SystemDiagramEditControl" ScrollHorizontalOffset="521" ScrollVerticalOffset="345" Zoom="1" />
 		</ScrollAndZoomSettingCache>
-		<SplitViewOrientationSettingCache Envoy="3" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+		<SplitViewOrientationSettingCache Envoy="3" Target="Envoy">
 			<SplitEditOrientationEditor ColumnWidth0="669.49999997182556" ColumnWidth2="669.49999997182556" EditorName="SplitEditControl" HorizontalOrientation="True" RowHeight0="1" RowHeight2="0" />
 		</SplitViewOrientationSettingCache>
 	</UserSettingsDefinition>
@@ -11005,7 +11005,7 @@
 		</DefinitionCacheUserSetting>
 		<ScrollAndZoomSettingCache Envoy="605" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
 			<ScrollAndZoomEditor EditorName="VIPanelControl" ScrollHorizontalOffset="0" ScrollVerticalOffset="48" Zoom="1" />
-			<ScrollAndZoomEditor EditorName="VIDiagramControl" ScrollHorizontalOffset="123.33333587646484" ScrollVerticalOffset="431.11111450195312" Zoom="0.9" />
+			<ScrollAndZoomEditor EditorName="VIDiagramControl" ScrollHorizontalOffset="0" ScrollVerticalOffset="0" Zoom="1" />
 		</ScrollAndZoomSettingCache>
 	</UserSettingsDefinition>
 	<UserSettingsDefinition Envoy="618" Name=":PC:Interactive:NI:Analysis:Statistics:Histogram\ \(single\-shot\)\(Wfm\)\.gvi">
@@ -11439,8 +11439,8 @@
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 		<ScrollAndZoomSettingCache Envoy="646" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
-			<ScrollAndZoomEditor EditorName="VIPanelControl" ScrollHorizontalOffset="0" ScrollVerticalOffset="624" Zoom="1" />
-			<ScrollAndZoomEditor EditorName="VIDiagramControl" ScrollHorizontalOffset="-119" ScrollVerticalOffset="-73" Zoom="1.5" />
+			<ScrollAndZoomEditor EditorName="VIPanelControl" ScrollHorizontalOffset="12" ScrollVerticalOffset="43" Zoom="0.67" />
+			<ScrollAndZoomEditor EditorName="VIDiagramControl" ScrollHorizontalOffset="28" ScrollVerticalOffset="1.6000000238418579" Zoom="1.25" />
 		</ScrollAndZoomSettingCache>
 	</UserSettingsDefinition>
 	<UserSettingsDefinition Envoy="652" Name=":PC:Interactive:NI:Analysis:Generation:Sine\ Waveform\.gvi">
@@ -18993,6 +18993,63 @@
 				</DereferenceType>
 			</VariableArray>
 		</p.TypeReference>
+		<p.TypeReference TypeId="cf32eea2ba0a4cea920546ea59e9fc42">
+			<Enumeration>
+				<Members>
+					<EnumerationMember Value="0" Name="FFT spectrum" />
+					<EnumerationMember Value="1" Name="Power spectrum" />
+					<EnumerationMember Value="2" Name="Cross spectrum" />
+					<EnumerationMember Value="3" Name="Frequency response" />
+				</Members>
+				<DataType>
+					<UInt16 />
+				</DataType>
+			</Enumeration>
+		</p.TypeReference>
+		<p.TypeReference TypeId="badaece408c64409bcfcbe29aa675226">
+			<VariableArray>
+				<DereferenceType>
+					<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+						<Members>
+							<Field FieldAccessPolicy="ReadWrite" Name="f0" DataType="Double" />
+							<Field FieldAccessPolicy="ReadWrite" Name="df" DataType="Double" />
+							<Field FieldAccessPolicy="ReadWrite" Name="magnitude">
+								<DataType>
+									<VariableArray DereferenceType="Double" />
+								</DataType>
+							</Field>
+						</Members>
+					</Composite>
+				</DereferenceType>
+			</VariableArray>
+		</p.TypeReference>
+		<p.TypeReference TypeId="49e5170de8be46c2a83b5889eed57c2c">
+			<Enumeration>
+				<Members>
+					<EnumerationMember Value="0" Name="Lowpass" />
+					<EnumerationMember Value="1" Name="Highpass" />
+					<EnumerationMember Value="2" Name="Bandpass" />
+					<EnumerationMember Value="3" Name="Bandstop" />
+				</Members>
+				<DataType>
+					<UInt32 />
+				</DataType>
+			</Enumeration>
+		</p.TypeReference>
+		<p.TypeReference TypeId="a8e771710f0347fda0f7b65f3a9cb15d">
+			<VariableArray>
+				<DereferenceType>
+					<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+						<Members>
+							<Field FieldAccessPolicy="ReadWrite" Name="amplitude" DataType="Double" />
+							<Field FieldAccessPolicy="ReadWrite" Name="lower freq" DataType="Double" />
+							<Field FieldAccessPolicy="ReadWrite" Name="higher freq" DataType="Double" />
+							<Field FieldAccessPolicy="ReadWrite" Name="weighted ripple" DataType="Double" />
+						</Members>
+					</Composite>
+				</DereferenceType>
+			</VariableArray>
+		</p.TypeReference>
 		<p.TypeReference TypeId="34f663a0f8a64416aba541f7d6eac792">
 			<Attributed>
 				<AttributedType>
@@ -19336,6 +19393,49 @@
 				</AttributeValues>
 			</Attributed>
 		</p.TypeReference>
+		<p.TypeReference TypeId="83304ebd482f49d0a6c5e330a8e064cf">
+			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+				<Members>
+					<Field FieldAccessPolicy="ReadWrite" Name="Array Constant">
+						<DataType>
+							<VariableArray DereferenceType="Double" />
+						</DataType>
+					</Field>
+					<Field FieldAccessPolicy="ReadWrite" Name="threshold" DataType="Double" />
+					<Field FieldAccessPolicy="ReadWrite" Name="Span" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="peaks/valleys">
+						<DataType>
+							<Enumeration>
+								<Members>
+									<EnumerationMember Value="0" Name="Peaks" />
+									<EnumerationMember Value="1" Name="Valleys" />
+								</Members>
+								<DataType>
+									<UInt16 />
+								</DataType>
+							</Enumeration>
+						</DataType>
+					</Field>
+					<Field FieldAccessPolicy="ReadWrite" Name="Array Constant_2">
+						<DataType>
+							<VariableArray DereferenceType="Double" />
+						</DataType>
+					</Field>
+					<Field FieldAccessPolicy="ReadWrite" Name="Array Constant_3">
+						<DataType>
+							<VariableArray DereferenceType="Double" />
+						</DataType>
+					</Field>
+					<Field FieldAccessPolicy="ReadWrite" Name="Array Constant_4">
+						<DataType>
+							<VariableArray DereferenceType="Double" />
+						</DataType>
+					</Field>
+					<Field FieldAccessPolicy="ReadWrite" Name="Element 8" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="Element 9" DataType="Int32" />
+				</Members>
+			</Composite>
+		</p.TypeReference>
 		<p.TypeReference TypeId="79307f69f70247df82d86d0de7c3fe19">
 			<Attributed>
 				<AttributedType>
@@ -19345,6 +19445,28 @@
 					<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Measurement" />
 				</AttributeValues>
 			</Attributed>
+		</p.TypeReference>
+		<p.TypeReference TypeId="9c985578ff9947958fd25dcc69823d81">
+			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+				<Members>
+					<Field FieldAccessPolicy="ReadWrite" Name="Span" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="Index" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="NHistoryPts" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="Len" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="PrevSign" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="unused" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="RinvQt (pointer)" DataType="UInt32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="FitBuffer (pointer)" DataType="UInt32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="History (pointer)" DataType="UInt32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="PrevCoeff (pointer)" DataType="UInt32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="Data (pointer)" DataType="UInt32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="slack for RinvQt" DataType="UInt32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="slack for FitBuffer" DataType="UInt32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="slack for History" DataType="UInt32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="slack for PrevCoeff" DataType="UInt32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="slack for Data" DataType="UInt32" />
+				</Members>
+			</Composite>
 		</p.TypeReference>
 		<p.TypeReference TypeId="db12ba8c4220471a80e41a527757cffd">
 			<Attributed>
@@ -19365,6 +19487,41 @@
 					<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Measurement" />
 				</AttributeValues>
 			</Attributed>
+		</p.TypeReference>
+		<p.TypeReference TypeId="9caaf466fbf1477a8d1b589e1b168393">
+			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+				<Members>
+					<Field FieldAccessPolicy="ReadWrite" Name="averaging mode">
+						<DataType>
+							<Enumeration>
+								<Members>
+									<EnumerationMember Value="0" Name="No averaging" />
+									<EnumerationMember Value="1" Name="Vector averaging" />
+									<EnumerationMember Value="2" Name="RMS averaging" />
+									<EnumerationMember Value="3" Name="Peak hold" />
+								</Members>
+								<DataType>
+									<UInt16 />
+								</DataType>
+							</Enumeration>
+						</DataType>
+					</Field>
+					<Field FieldAccessPolicy="ReadWrite" Name="weighting mode">
+						<DataType>
+							<Enumeration>
+								<Members>
+									<EnumerationMember Value="0" Name="Linear" />
+									<EnumerationMember Value="1" Name="Exponential" />
+								</Members>
+								<DataType>
+									<UInt16 />
+								</DataType>
+							</Enumeration>
+						</DataType>
+					</Field>
+					<Field FieldAccessPolicy="ReadWrite" Name="number of averages" DataType="UInt32" />
+				</Members>
+			</Composite>
 		</p.TypeReference>
 		<p.TypeReference TypeId="a8106957b9c74a119f0e3cfccf03e781">
 			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
@@ -19460,36 +19617,6 @@
 				</Members>
 			</Composite>
 		</p.TypeReference>
-		<p.TypeReference TypeId="cf32eea2ba0a4cea920546ea59e9fc42">
-			<Enumeration>
-				<Members>
-					<EnumerationMember Value="0" Name="FFT spectrum" />
-					<EnumerationMember Value="1" Name="Power spectrum" />
-					<EnumerationMember Value="2" Name="Cross spectrum" />
-					<EnumerationMember Value="3" Name="Frequency response" />
-				</Members>
-				<DataType>
-					<UInt16 />
-				</DataType>
-			</Enumeration>
-		</p.TypeReference>
-		<p.TypeReference TypeId="badaece408c64409bcfcbe29aa675226">
-			<VariableArray>
-				<DereferenceType>
-					<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-						<Members>
-							<Field FieldAccessPolicy="ReadWrite" Name="f0" DataType="Double" />
-							<Field FieldAccessPolicy="ReadWrite" Name="df" DataType="Double" />
-							<Field FieldAccessPolicy="ReadWrite" Name="magnitude">
-								<DataType>
-									<VariableArray DereferenceType="Double" />
-								</DataType>
-							</Field>
-						</Members>
-					</Composite>
-				</DereferenceType>
-			</VariableArray>
-		</p.TypeReference>
 		<p.TypeReference TypeId="9cbf261cf8e04e19b11f016681e2b4ee">
 			<Attributed>
 				<AttributedType>
@@ -19519,6 +19646,35 @@
 					<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Filtering" />
 				</AttributeValues>
 			</Attributed>
+		</p.TypeReference>
+		<p.TypeReference TypeId="48f074f7796d4af1a8cc554eda33767a">
+			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+				<Members>
+					<Field FieldAccessPolicy="ReadWrite" Name="filter structure">
+						<DataType>
+							<Attributed>
+								<AttributedType>
+									<Typedef TypedefName="filter structure.gtype" UnderlyingType="UInt32" />
+								</AttributedType>
+								<AttributeValues>
+									<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Filtering" />
+								</AttributeValues>
+							</Attributed>
+						</DataType>
+					</Field>
+					<Field FieldAccessPolicy="ReadWrite" Name="forward coefficients">
+						<DataType>
+							<VariableArray DereferenceType="Double" />
+						</DataType>
+					</Field>
+					<Field FieldAccessPolicy="ReadWrite" Name="reverse coefficients">
+						<DataType>
+							<VariableArray DereferenceType="Double" />
+						</DataType>
+					</Field>
+					<Field FieldAccessPolicy="ReadWrite" Name="sampling frequency" DataType="Double" />
+				</Members>
+			</Composite>
 		</p.TypeReference>
 		<p.TypeReference TypeId="8b32681b3d7442f4b8c69ea3e481b538">
 			<Attributed>
@@ -19551,173 +19707,6 @@
 				</AttributeValues>
 			</Attributed>
 		</p.TypeReference>
-		<p.TypeReference TypeId="a8e771710f0347fda0f7b65f3a9cb15d">
-			<VariableArray>
-				<DereferenceType>
-					<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-						<Members>
-							<Field FieldAccessPolicy="ReadWrite" Name="amplitude" DataType="Double" />
-							<Field FieldAccessPolicy="ReadWrite" Name="lower freq" DataType="Double" />
-							<Field FieldAccessPolicy="ReadWrite" Name="higher freq" DataType="Double" />
-							<Field FieldAccessPolicy="ReadWrite" Name="weighted ripple" DataType="Double" />
-						</Members>
-					</Composite>
-				</DereferenceType>
-			</VariableArray>
-		</p.TypeReference>
-		<p.TypeReference TypeId="e8ae382ecf7742ba8f2934be9ec65216">
-			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-				<Members>
-					<Field FieldAccessPolicy="ReadWrite" Name="condition">
-						<DataType>
-							<VariableArray DereferenceType="ComplexDouble" />
-						</DataType>
-					</Field>
-				</Members>
-			</Composite>
-		</p.TypeReference>
-		<p.TypeReference TypeId="83304ebd482f49d0a6c5e330a8e064cf">
-			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-				<Members>
-					<Field FieldAccessPolicy="ReadWrite" Name="Array Constant">
-						<DataType>
-							<VariableArray DereferenceType="Double" />
-						</DataType>
-					</Field>
-					<Field FieldAccessPolicy="ReadWrite" Name="threshold" DataType="Double" />
-					<Field FieldAccessPolicy="ReadWrite" Name="Span" DataType="Int32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="peaks/valleys">
-						<DataType>
-							<Enumeration>
-								<Members>
-									<EnumerationMember Value="0" Name="Peaks" />
-									<EnumerationMember Value="1" Name="Valleys" />
-								</Members>
-								<DataType>
-									<UInt16 />
-								</DataType>
-							</Enumeration>
-						</DataType>
-					</Field>
-					<Field FieldAccessPolicy="ReadWrite" Name="Array Constant_2">
-						<DataType>
-							<VariableArray DereferenceType="Double" />
-						</DataType>
-					</Field>
-					<Field FieldAccessPolicy="ReadWrite" Name="Array Constant_3">
-						<DataType>
-							<VariableArray DereferenceType="Double" />
-						</DataType>
-					</Field>
-					<Field FieldAccessPolicy="ReadWrite" Name="Array Constant_4">
-						<DataType>
-							<VariableArray DereferenceType="Double" />
-						</DataType>
-					</Field>
-					<Field FieldAccessPolicy="ReadWrite" Name="Element 8" DataType="Int32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="Element 9" DataType="Int32" />
-				</Members>
-			</Composite>
-		</p.TypeReference>
-		<p.TypeReference TypeId="9c985578ff9947958fd25dcc69823d81">
-			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-				<Members>
-					<Field FieldAccessPolicy="ReadWrite" Name="Span" DataType="Int32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="Index" DataType="Int32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="NHistoryPts" DataType="Int32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="Len" DataType="Int32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="PrevSign" DataType="Int32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="unused" DataType="Int32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="RinvQt (pointer)" DataType="UInt32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="FitBuffer (pointer)" DataType="UInt32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="History (pointer)" DataType="UInt32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="PrevCoeff (pointer)" DataType="UInt32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="Data (pointer)" DataType="UInt32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="slack for RinvQt" DataType="UInt32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="slack for FitBuffer" DataType="UInt32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="slack for History" DataType="UInt32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="slack for PrevCoeff" DataType="UInt32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="slack for Data" DataType="UInt32" />
-				</Members>
-			</Composite>
-		</p.TypeReference>
-		<p.TypeReference TypeId="9caaf466fbf1477a8d1b589e1b168393">
-			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-				<Members>
-					<Field FieldAccessPolicy="ReadWrite" Name="averaging mode">
-						<DataType>
-							<Enumeration>
-								<Members>
-									<EnumerationMember Value="0" Name="No averaging" />
-									<EnumerationMember Value="1" Name="Vector averaging" />
-									<EnumerationMember Value="2" Name="RMS averaging" />
-									<EnumerationMember Value="3" Name="Peak hold" />
-								</Members>
-								<DataType>
-									<UInt16 />
-								</DataType>
-							</Enumeration>
-						</DataType>
-					</Field>
-					<Field FieldAccessPolicy="ReadWrite" Name="weighting mode">
-						<DataType>
-							<Enumeration>
-								<Members>
-									<EnumerationMember Value="0" Name="Linear" />
-									<EnumerationMember Value="1" Name="Exponential" />
-								</Members>
-								<DataType>
-									<UInt16 />
-								</DataType>
-							</Enumeration>
-						</DataType>
-					</Field>
-					<Field FieldAccessPolicy="ReadWrite" Name="number of averages" DataType="UInt32" />
-				</Members>
-			</Composite>
-		</p.TypeReference>
-		<p.TypeReference TypeId="49e5170de8be46c2a83b5889eed57c2c">
-			<Enumeration>
-				<Members>
-					<EnumerationMember Value="0" Name="Lowpass" />
-					<EnumerationMember Value="1" Name="Highpass" />
-					<EnumerationMember Value="2" Name="Bandpass" />
-					<EnumerationMember Value="3" Name="Bandstop" />
-				</Members>
-				<DataType>
-					<UInt32 />
-				</DataType>
-			</Enumeration>
-		</p.TypeReference>
-		<p.TypeReference TypeId="48f074f7796d4af1a8cc554eda33767a">
-			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-				<Members>
-					<Field FieldAccessPolicy="ReadWrite" Name="filter structure">
-						<DataType>
-							<Attributed>
-								<AttributedType>
-									<Typedef TypedefName="filter structure.gtype" UnderlyingType="UInt32" />
-								</AttributedType>
-								<AttributeValues>
-									<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Filtering" />
-								</AttributeValues>
-							</Attributed>
-						</DataType>
-					</Field>
-					<Field FieldAccessPolicy="ReadWrite" Name="forward coefficients">
-						<DataType>
-							<VariableArray DereferenceType="Double" />
-						</DataType>
-					</Field>
-					<Field FieldAccessPolicy="ReadWrite" Name="reverse coefficients">
-						<DataType>
-							<VariableArray DereferenceType="Double" />
-						</DataType>
-					</Field>
-					<Field FieldAccessPolicy="ReadWrite" Name="sampling frequency" DataType="Double" />
-				</Members>
-			</Composite>
-		</p.TypeReference>
 		<p.TypeReference TypeId="0e042e922f814c9e90bc38b35a914c18">
 			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
 				<Members>
@@ -19749,6 +19738,26 @@
 							<VariableArray DereferenceType="Double" />
 						</DataType>
 					</Field>
+				</Members>
+			</Composite>
+		</p.TypeReference>
+		<p.TypeReference TypeId="e8ae382ecf7742ba8f2934be9ec65216">
+			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+				<Members>
+					<Field FieldAccessPolicy="ReadWrite" Name="condition">
+						<DataType>
+							<VariableArray DereferenceType="ComplexDouble" />
+						</DataType>
+					</Field>
+				</Members>
+			</Composite>
+		</p.TypeReference>
+		<p.TypeReference TypeId="a6d8a40e2a5642d3a03f250baa9870ba">
+			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+				<Members>
+					<Field FieldAccessPolicy="ReadWrite" Name="power enable" DataType="Boolean" />
+					<Field FieldAccessPolicy="ReadWrite" Name="mixer enable" DataType="Boolean" />
+					<Field FieldAccessPolicy="ReadWrite" Name="gain" DataType="UInt8" />
 				</Members>
 			</Composite>
 		</p.TypeReference>
@@ -19829,15 +19838,6 @@
 					<AttributeValue Name="NI_UdrNamespace" Value="[string]FPGA" />
 				</AttributeValues>
 			</Attributed>
-		</p.TypeReference>
-		<p.TypeReference TypeId="a6d8a40e2a5642d3a03f250baa9870ba">
-			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-				<Members>
-					<Field FieldAccessPolicy="ReadWrite" Name="power enable" DataType="Boolean" />
-					<Field FieldAccessPolicy="ReadWrite" Name="mixer enable" DataType="Boolean" />
-					<Field FieldAccessPolicy="ReadWrite" Name="gain" DataType="UInt8" />
-				</Members>
-			</Composite>
 		</p.TypeReference>
 		<p.TypeReference TypeId="f0f4f51441b742d0b785dc501844ce06">
 			<Attributed>
